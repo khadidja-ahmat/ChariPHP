@@ -1,1 +1,6 @@
 * text=auto eol=lf
+
+# Les modèles .tpl sont du PHP, du JavaScript et du CSS (GitHub les prenait pour du Go Template / Smarty)
+*.php.tpl linguist-language=PHP
+*.js.tpl linguist-language=JavaScript
+*.css.tpl linguist-language=CSS
