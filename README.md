@@ -35,8 +35,3 @@ templates/
 
 Le générateur est un **outil de développement** : ne le laissez pas accessible sur un serveur public. Supprimez ou protégez le dossier `ChariPHP` en production, et supprimez `config/install.php` des projets une fois l'administrateur créé.
 
-## Licence
-
-Code publié à titre de démonstration. **Tous droits réservés** : toute utilisation, copie ou modification nécessite mon accord écrit (voir [LICENSE](LICENSE)).
-
-© 2026 Khadidja Ahmat Hassan
