@@ -2,7 +2,7 @@
 
 ChariPHP est un petit générateur que j'ai écrit pour créer rapidement l'administration d'un site en **PHP natif** (sans framework) : un projet complet avec connexion, tableau de bord et menu, puis un module de gestion (liste, ajout, modification, suppression) pour chaque table MySQL.
 
-Exemple d'utilisation : [Clinique Espoir – version ChariPHP](https://github.com/khadidja-ahmat/Clinique-Espoir-ChariPHP).
+Exemple d'utilisation : [Clinique Espoir – version ChariPHP](https://github.com/khadidja-ahmat/Site-web-clinique-Espoir-ChariPHP).
 
 ## Ce que ça génère
 
